@@ -28,9 +28,5 @@ The dashboard provides insights into:
 ## Project Objective
 To visualize internship application trends and provide insights into applicant distribution across colleges, genders, and preferred internship roles.
 
-## Dashboard Preview
-
-![Internship Recruitment Dashboard](Internship_Recruitment_Dashboard.png)
-
 ## Note
 This repository contains a dashboard preview. Underlying recruitment data is not shared. Publication of company-related statistics is subject to authorization.
